@@ -1,2 +1,15 @@
 # UT-Challange-Module1
-Module 1 Challange
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Zak Krutikov
